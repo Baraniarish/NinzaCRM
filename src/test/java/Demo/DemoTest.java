@@ -5,6 +5,7 @@ public class DemoTest {
 		 public void virat() 
 		{
 			  System.out.println("Virat");
+			  System.out.println("Sachin");
 			  System.out.println("Rahul");
 		  }
 
