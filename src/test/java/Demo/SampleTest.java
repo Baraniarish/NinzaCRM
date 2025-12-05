@@ -6,6 +6,8 @@ public class SampleTest {
 	 public void dhoni() 
 	{
 		  System.out.println("Dhoni");
+		  System.out.println("Jaddu");
+		  
 	  }
 
 }
